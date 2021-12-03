@@ -1,0 +1,9 @@
+Name,Parent
+"Finance","DC=X"
+"Accounting","OU=Finance,DC=X"
+"Payroll","OU=Finance,DC=X"
+"Sales","DC=X"
+"Marketing","OU=Sales,DC=X"
+"PreSalesSupport","OU=Sales,DC=X"
+"PostSalesSupport","OU=Sales,DC=X"
+"Admin","DC=X"

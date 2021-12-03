@@ -1,0 +1,9 @@
+﻿SamAccountName,Parent,Category,Scope
+DEPT - Accounting,"OU=Accounting,OU=Finance,DC=X",Security,Global
+DEPT - Payroll,"OU=Payroll,OU=Finance,DC=X",Security,Global
+DEPT - Development,"OU=Development,OU=IT,DC=X",Security,Global
+DEPT - Support,"OU=Support,OU=IT,DC=X",Security,Global
+DEPT - Systems,"OU=Systems,OU=IT,DC=X",Security,Global
+DEPT - Marketing,"OU=Marketing,OU=Sales,DC=X",Security,Global
+DEPT - PostSalesSupport,"OU=PostSalesSupport,OU=Sales,DC=X",Security,Global
+DEPT - PreSalesSupport,"OU=PreSalesSupport,OU=Sales,DC=X",Security,Global
