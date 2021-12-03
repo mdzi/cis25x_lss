@@ -7,3 +7,7 @@ Name,Parent
 "PreSalesSupport","OU=Sales,DC=X"
 "PostSalesSupport","OU=Sales,DC=X"
 "Admin","DC=X"
+"IT","DC=X"
+"Development","OU=IT,DC=X"
+"Support","OU=IT,DC=X"
+"Systems","OU=IT,DC=X"
