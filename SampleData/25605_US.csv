@@ -1,4 +1,5 @@
 ﻿SamAccountName,Surname,GivenName,Initials,DisplayName,Department,Parent,Password
+BOB,Smith,Robert,B,Robert Smith,1,"OU=Accounting,OU=Finance,DC=X",Pa$$w0rd
 AAC,Angella,Cetta,A,Angella A. Cetta,5,"OU=Systems,OU=IT,DC=X",Pa$$w0rd
 AAG,Aja,Gehrett,A,Aja A. Gehrett,7,"OU=PostSalesSupport,OU=Sales,DC=X",Pa$$w0rd
 AAJ,Alline,Jeanty,A,Alline A. Jeanty,1,"OU=Accounting,OU=Finance,DC=X",Pa$$w0rd
