@@ -1,0 +1,22 @@
+FQDN = idcard.albany.edu
+ALTNAMES = DNS:$FQDN   # , DNS:devserver.univ.albany.edu
+
+[ req ]
+default_bits = 2048
+default_md = sha256
+prompt = no
+encrypt_key = no
+distinguished_name = dn
+req_extensions = req_ext
+
+[ dn ]
+C=US
+postalCode=12222
+ST=New York
+L=Albany
+street=ITB
+O=University at Albany, State University of New York
+CN=$FQDN
+
+[ req_ext ]
+subjectAltName = $ALTNAMES
